@@ -3,6 +3,7 @@
 ### Project Topic: Excel document
 
 ### Project Overview
+```
 My first project while learning Data Analysis with the incubator Hub was the use of microsoft excel. 
 
 ### Data Sources
@@ -18,3 +19,11 @@ in the initial cleaning and preparation, we performed
  1. Data loading and inspection
  2. Handling missing data
  3. Data cleaning and formating
+
+### Explorator Data Analysis
+
+### Data Analysis
+```excel
+sumif
+```
+
